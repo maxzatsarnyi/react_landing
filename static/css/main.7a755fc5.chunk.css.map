@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/styles.css"],"names":[],"mappings":"AACA,EACI,kCAAoC,CACpC,qBAAsB,CACtB,SAAU,CACV,QAGJ","file":"main.7a755fc5.chunk.css","sourcesContent":["\r\n* {\r\n    font-family: 'Open Sans', sans-serif;\r\n    box-sizing: border-box;\r\n    padding: 0;\r\n    margin: 0;\r\n\r\n    /* border: 0.1px solid forestgreen; */\r\n}\r\n"]}
